@@ -24,7 +24,7 @@
 
 ## React
 
-## [React-Native] (https://github.com/jeehwan-lee/TIL/tree/master/React-Native)
+## [React-Native](https://github.com/jeehwan-lee/TIL/tree/master/React-Native)
 
 ### TextInput
 
