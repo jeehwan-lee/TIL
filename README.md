@@ -10,26 +10,10 @@
 
 - [React](#React)
 
-- [React-Native](#React-Native)
+- [React-Native](https://github.com/jeehwan-lee/TIL/tree/master/React-Native)
 
 - [Java](#Java)
 
 - [Spring](#Spring)
 
 - [MySQL](#MySQL)
-
-## Javascript
-
-## Typescript
-
-## React
-
-## [React-Native](https://github.com/jeehwan-lee/TIL/tree/master/React-Native)
-
-### TextInput
-
-## Java
-
-## Spring
-
-## MySQL
