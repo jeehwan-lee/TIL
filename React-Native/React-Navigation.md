@@ -11,6 +11,8 @@
 - 스택 내비게이터를 사용하기 위해서는 @react-navigation/native-stack 필요
 - createNativeStackNavigator 함수를 통해 내비게이터를 생성
 - Navigator 태그의 initialRouteName을 통해 첫 화면을 설정할 수 있음
+- props 종류
+  - headerShow : 화면의 윗부분에 title을 보여줄지 여부를 설정
 
 ```
 const Stack = createNativeStackNavigator()
